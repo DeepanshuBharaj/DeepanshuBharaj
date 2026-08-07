@@ -2,7 +2,10 @@
 
 
 # 💫 About Me:
-I'm currently learning 
+- 🔭 I’m currently working on **Data Science projects, including sports match outcome predictors and consumer data analysis.**
+- 🌱 I’m currently learning **advanced Machine Learning algorithms and model optimization.**
+- 🎓 I'm an aspiring AI/ML Engineer currently in my B.Tech CSE program.
+- 💬 Ask me about **Python, Data Analysis, and predictive modeling.**
 
 
 # 💻 Tech Stack:
